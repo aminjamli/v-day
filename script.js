@@ -10,7 +10,7 @@ const gifStages = [
 ]
 
 const noMessages = [
-    "No",
+    "Lee",
     "met2akda? 🤔",
     "ya benty yehdyk...",
     "eykoun mennek el39al...",
@@ -22,10 +22,10 @@ const noMessages = [
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
+    "9ou lee 😏",
     "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    "O93ed 9oul lee haha",
+    "O93ed 9oul lee haha"
 ]
 
 let yesTeasedCount = 0
