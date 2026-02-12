@@ -22,10 +22,10 @@ const noMessages = [
 ]
 
 const yesTeasePokes = [
-    "9ou lee 😏",
-    "go on, hit no... just once 👀",
-    "O93ed 9oul lee haha",
-    "O93ed 9oul lee haha"
+    "enzel lee 😏",
+    "lahalkol t7ebny? enzel lee 👀",
+    "lahalkol t7ebny? enzel lee 👀",
+    "O93ed enzel lee haha"
 ]
 
 let yesTeasedCount = 0
